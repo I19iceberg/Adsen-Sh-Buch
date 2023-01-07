@@ -1,1 +1,128 @@
 <link rel="stylesheet" href="/css/styles.css">
+body {
+  font-family: Arial, sans-serif;
+  color: #333333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+a {
+  color: #00BFFF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0072C6;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.navbar {
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.navbar .logo {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333333;
+  text-decoration: none;
+}
+
+.navbar .logo:hover {
+  color: #00BFFF;
+}
+
+.navbar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navbar ul li {
+  margin-left: 20px;
+}
+
+.navbar ul li a {
+  font-size: 16px;
+  color: #333333;
+}
+
+.navbar ul li a:hover {
+  color: #00BFFF;
+}
+
+.hero {
+  background-image: url('/path/to/hero-image.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero h1 {
+  font-size: 48px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.section {
+  padding: 20px 0;
+}
+
+.section h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.section p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.section .cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.section .card {
+  width: 30%;
+  margin-bottom: 20px;
+}
+
+.section .card img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.section .card h3 {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.section .card p {
+  font-size: 14px;
+  color: #777777;
+  margin-top: 5px;
+  line-height: 1.5;
+}
+
+.footer {
+  background-color: #f1f1f1;
+  padding: 20px;
+ 
