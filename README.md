@@ -39,4 +39,14 @@ I declare that this list constitutes all of my properties and assets, and that t
 
 ## Executor Appointment and Powers
 
-I appoint my wife and children as the executors of this will. I direct that
+I appoint my wife and children as the executors of this will. I direct that they shall have the power to sell, mortgage, or otherwise dispose of any real or personal property, wherever located, without the necessity of obtaining any court approval.
+
+I further direct that my executors shall have the power to make any and all decisions related to the management and distribution of my properties and assets, including the power to invest, reinvest, or sell any assets as they see fit.
+
+I trust in their judgment and discretion to carry out my wishes as set forth in this will, and I hereby waive any right to object to any actions taken by them in good faith.
+
+I direct that my executors shall not be required to provide any bond or security for their duties as executors.
+
+Signed,
+Aturk Sen Paul
+
